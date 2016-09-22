@@ -1,0 +1,36 @@
+thread id=1 , cpu = 2
+thread id=0 , cpu = 2
+thread id=4 , cpu = 3
+thread id=7 , cpu = 2
+thread id=5 , cpu = 3
+thread id=6 , cpu = 0
+thread id=2 , cpu = 1
+thread id=3 , cpu = 1
+========================
+thread id=1 , cpu = 0
+thread id=2 , cpu = 1
+thread id=0 , cpu = 3
+thread id=4 , cpu = 1
+thread id=6 , cpu = 1
+thread id=7 , cpu = 1
+thread id=5 , cpu = 1
+thread id=3 , cpu = 1
+========================
+thread id=1 , cpu = 3
+thread id=2 , cpu = 1
+thread id=4 , cpu = 1
+thread id=0 , cpu = 1
+thread id=7 , cpu = 1
+thread id=5 , cpu = 1
+thread id=6 , cpu = 1
+thread id=3 , cpu = 1
+========================
+thread id=1 , cpu = 3
+thread id=2 , cpu = 2
+thread id=4 , cpu = 0
+thread id=0 , cpu = 1
+thread id=5 , cpu = 1
+thread id=7 , cpu = 1
+thread id=6 , cpu = 1
+thread id=3 , cpu = 1
+========================
